@@ -1,4 +1,16 @@
 # Transit Route Planner
+Finds shortest route between two points on the MTA subway. Uses Dijkstra's algorithm. Currently lacking interface.
+
+Learning goals:  
+* graph modelling
+* graph traversal
+* comparing run time against Python
+* google transit feed specification (gtfs)
+
+Future:  
+* geodata for more accurate route planning
+* implement gtfs-realtime
+* implement string parsing and fuzzy find
 
 # Getting Started
 
